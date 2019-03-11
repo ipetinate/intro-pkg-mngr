@@ -1,9 +1,8 @@
-# intro-pkg-mngr
+# Introdução aos Gerenciadores de Pacote do Nodejs
 
-> Introdução aos Gerenciadores de Pacote do Nodejs
-
+> Sobre
 - Entenderemos de modo geral, para que server e como funciona um gerenciador de pacotes do Node.
-
+> O que vamor ver?
 - Vamos aprender como usar os comandos de cada gerenciador e como ser mais produtivo utilizando estas ferramentas.
 
 > Downloads:
